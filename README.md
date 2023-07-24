@@ -1,7 +1,7 @@
 ## hotDice
 Feeling Lucky??
 
-#This app 
+##This app 
 is a simple dice randomizer with some CLI ASCII illustratrations and delays. 
 The user chooses how many dice they would like to roll and the results appear on the CLI. 
 I am working to implement the ability to hold certain dice and re-roll. I want the user to
